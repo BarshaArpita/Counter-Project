@@ -1,0 +1,42 @@
+.counter-main-section {
+  width: 500px;
+  height: 300px;
+  border: 10px solid;
+  margin: 50px auto;
+  background-color: gray;
+}
+.heading-section {
+  width: 80%;
+  height: 50px;
+  margin: 50px auto;
+  border: 2px solid;
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+}
+
+.counter-main-section h2 {
+  display: flex;
+  justify-content: center;
+  font-weight: bolder;
+  color: azure;
+}
+
+.button-section {
+  margin: 20px auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.button-section button {
+  width: 100px;
+  height: 50px;
+  font-size: 25px;
+  border: 2px solid black;
+  background-color: #1a8fdd;
+  color: black;
+}
